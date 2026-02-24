@@ -6,4 +6,8 @@ p{
 }
 button{
     color: darkmagenta;
+    background-color: burlywood;
+}
+body{
+    background-color: gray;
 }
