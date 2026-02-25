@@ -1,8 +1,11 @@
 h1{
     color: red;
+    text-align: center;
+    text-decoration: black  wavy underline;
 }
 p{
     color: blue;
+
 }
 button{
     color: darkmagenta;
@@ -10,4 +13,8 @@ button{
 }
 body{
     background-color: gray;
+}
+
+a{
+    text-decoration: none;
 }
