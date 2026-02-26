@@ -1,0 +1,19 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: pink;
+    border: 5px double black;
+    text-align: center;
+    border-radius: 5px;
+    padding: 45px 45px;
+    margin-top: 20px;
+}
+h1{
+    width:200px;
+    text-align: center;
+    background-color: aqua;
+    border:2px solid blueviolet;
+    border-radius: 5px;
+
+
+}
