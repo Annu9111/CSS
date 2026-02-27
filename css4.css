@@ -1,0 +1,19 @@
+#box1{
+    width:500px;
+    height: 500px;
+    background-color:blueviolet;
+    border: 2px solid black;
+    font-size: 8px;
+}
+
+#box2{
+    width: 50%;
+    height: 50%;
+    background-color: brown;
+    border: 2px solid black;
+    font-size: 2rem;
+
+}
+body{
+    background-color: burlywood;
+}
