@@ -5,6 +5,7 @@ div{
 .container{
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
 
 }
 
@@ -17,4 +18,24 @@ a{
 li{
     list-style: none;
     display: inline;
+    margin: 56px;
+}
+
+.outter{
+    width:500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkorange;
+    border: 2px solid black;
+    margin:20px;
+
+}
+.inner{
+    display: inline-block;
+    background-color: crimson;
+    width:50%;
+    height: 50%;
+    border: 2px solid black;
 }
